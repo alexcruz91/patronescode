@@ -143,6 +143,18 @@
             "name": "lala",
             "category": "kids",
             "price": 9.0
+        },
+        {
+            "id": 25,
+            "name": "Yogurth Alpina",
+            "category": "Alimentos",
+            "price": 5000.0
+        },
+        {
+            "id": 25,
+            "name": "Yogurth Alpina",
+            "category": "Alimentos",
+            "price": 5000.0
         }
     ],
     "categories": [
@@ -161,6 +173,22 @@
         {
             "id": 4,
             "name": "girls"
+        },
+        {
+            "id": 7,
+            "name": "Alimentos"
+        },
+        {
+            "id": 7,
+            "name": "Alimentos"
+        },
+        {
+            "id": 7,
+            "name": "Juguetes"
+        },
+        {
+            "id": 7,
+            "name": "Juguetes"
         }
     ],
     "favorites": []
